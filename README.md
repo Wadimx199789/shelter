@@ -1,1 +1,1 @@
-https://wadimx199789.github.io/shelter/shelter
+https://github.com/Wadimx199789/shelter/tree/gh-pages/shelter/pages/main
