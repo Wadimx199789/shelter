@@ -1,5 +1,3 @@
-const menuLinks = document.querySelectorAll(".header__menu-link");
-
 
 menuLinks.forEach((menuLink)=>{
     menuLink.addEventListener("mouseover",function(event){
@@ -14,4 +12,7 @@ menuLinks.forEach((menuLink)=>{
     menuLink.addEventListener("mouseout",function(event){
         event.target.classList.remove("active");
     });
-})
+
+});
+
+
